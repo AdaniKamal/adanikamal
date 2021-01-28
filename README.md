@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 📫 How to reach me:
-Twitter: https://www.linkedin.com/in/adani-kamal/
-LinkedIn: https://twitter.com/my_r3in3
+* Twitter: https://www.linkedin.com/in/adani-kamal/
+* LinkedIn: https://twitter.com/my_r3in3
 
 😄 Actively participate
 
-<script src="https://tryhackme.com/badge/28105"></script>
-<script src="https://www.hackthebox.eu/badge/74162"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/adanikamal.png" alt="TryHackMe">
+<img src="http://www.hackthebox.eu/badge/image/74162" alt="Hack The Box">
