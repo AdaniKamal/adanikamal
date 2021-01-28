@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 , my name is adanikamal // r3in3
 
 <!--
 **AdaniKamal/adanikamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📫 How to reach me:
+Twitter: https://www.linkedin.com/in/adani-kamal/
+LinkedIn: https://twitter.com/my_r3in3
+
+😄 Actively participate
+
+<script src="https://tryhackme.com/badge/28105"></script>
+<script src="https://www.hackthebox.eu/badge/74162"></script>
