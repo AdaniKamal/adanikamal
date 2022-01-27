@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 📫 How to reach me:
-* Twitter: https://www.linkedin.com/in/adani-kamal/
-* LinkedIn: https://twitter.com/my_r3in3
+* LinkedIn: https://www.linkedin.com/in/adani-kamal/
+* Twitter: https://twitter.com/my_r3in3
 
 😄 Actively participate
 
