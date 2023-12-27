@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 📫 How to reach me:
 * LinkedIn: https://www.linkedin.com/in/adani-kamal/
 * Twitter: https://twitter.com/my_r3in3
-** Starting again 01032023
 
-😄 Actively participate
 
 ![image](https://user-images.githubusercontent.com/44063862/106121175-3a875800-6192-11eb-9fcd-6197e43d108c.png)
 <img src="http://www.hackthebox.eu/badge/image/74162" alt="Hack The Box">
