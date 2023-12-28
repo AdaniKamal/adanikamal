@@ -1,9 +1,7 @@
-### Hi there </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, my name is adanikamal 
+### Hi there </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, my name is Adani Kamal
 
 <p align="center">
-	
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=mediumspringgreen&size=25&center=true&vCenter=true&width=600&height=100&lines=H3110+&hearts;++;Cybersecurity+Enthusiast;CTF+at+spare+time,;Love+to+learn+new+stuffs..<3"></a>
-  
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=Green&size=25&center=true&vCenter=true&width=600&height=100&lines=H3110+&hearts;++;Cybersecurity+Enthusiast;CTF+at+spare+time,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <!-- Comment -->
