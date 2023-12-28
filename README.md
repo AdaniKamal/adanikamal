@@ -2,7 +2,7 @@
 
 <p align="center">
 	
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=mediumspringgreen&size=25&center=true&vCenter=true&width=600&height=100&lines=H3110+&hearts;++;Cybersecurity+Enthusiast,;CTF+at+spare+time,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=mediumspringgreen&size=25&center=true&vCenter=true&width=600&height=100&lines=H3110+&hearts;++;Cybersecurity+Enthusiast;CTF+at+spare+time,;Love+to+learn+new+stuffs..<3"></a>
   
 </p>
 
@@ -21,22 +21,17 @@
 <p align="center">
 	
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/adani-kamal/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/AdaniKamal">
 		  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/my_r3in3">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
 			<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
   </div>
 
 <br><br>
-
-📫 How to reach me:
-* LinkedIn: https://www.linkedin.com/in/adani-kamal/
-* Twitter: https://twitter.com/my_r3in3
-
 
 <br><br>
 
