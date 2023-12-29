@@ -11,7 +11,7 @@
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
           <!-- <img width="30%" src="https://github-readme-stats.vercel.app/api?username=adanikamal&show_icons=true&theme=gruvbox&hide_border=true" /> -->
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=adanikamal&theme=tokyonight_duo" alt="7oSkaaa" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=adanikamal&theme=radical" alt="adanikamal" />
           </a>
        </p>
 
