@@ -12,10 +12,11 @@
   <img align="right" top="500" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
+<!-- Statistic -->
 <h3 align="center" >Stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
-          <!-- <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=adanikamal&show_icons=true&theme=gruvbox&hide_border=true" /> -->
+          <!-- <img width="30%" src="https://github-readme-stats.vercel.app/api?username=adanikamal&show_icons=true&theme=gruvbox&hide_border=true" /> -->
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=adanikamal&theme=tokyonight_duo" alt="7oSkaaa" />
           </a>
        </p>
