@@ -16,9 +16,11 @@
        </p>
 
 <!-- GIF -->
+<p align="center">
 <a target="_blank">
   <img align="centre" top="500" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+</p>
 
 <br><br>
 
