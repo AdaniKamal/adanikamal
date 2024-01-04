@@ -7,7 +7,7 @@
 <!-- Comment -->
 
 <!-- Statistic -->
-<h3 align="center" >Stasistic</h3></summary>
+<h3 align="center" >Statistic</h3></summary>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
           <!-- <img width="30%" src="https://github-readme-stats.vercel.app/api?username=adanikamal&show_icons=true&theme=gruvbox&hide_border=true" /> -->
