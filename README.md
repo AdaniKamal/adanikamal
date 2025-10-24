@@ -7,7 +7,7 @@
 
 <!-- Comment -->
 
-<!-- Statistic -->
+<!-- Statistic
 <h3 align="center" >Statistic</h3></summary>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
@@ -15,6 +15,7 @@
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=adanikamal&theme=radical" alt="adanikamal" />
           </a>
        </p>
+ -->
 
 <!-- GIF -->
 <p align="center">
